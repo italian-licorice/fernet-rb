@@ -101,7 +101,7 @@ To run the test suite:
 
 * Clone the project
 * Init submodules with `git submodule init && git submodule update`
-* Run the suite: `bundle exec rspec spec`
+* Run the suite: `bundle install && bundle exec rspec spec`
 
 Thanks to all [contributors](https://github.com/hgmnz/fernet/contributors).
 
